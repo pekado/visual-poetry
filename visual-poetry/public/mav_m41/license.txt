@@ -1,0 +1,11 @@
+Model Information:
+* title:	MÁV M41
+* source:	https://sketchfab.com/3d-models/mav-m41-5c037acaf1534eb9ad5a258f7c556d87
+* author:	newvoxel (https://sketchfab.com/newvoxel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "MÁV M41" (https://sketchfab.com/3d-models/mav-m41-5c037acaf1534eb9ad5a258f7c556d87) by newvoxel (https://sketchfab.com/newvoxel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

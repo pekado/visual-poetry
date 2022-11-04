@@ -1,0 +1,11 @@
+Model Information:
+* title:	Art Magazines on Old Cabinet (Scaniverse LIDAR)
+* source:	https://sketchfab.com/3d-models/art-magazines-on-old-cabinet-scaniverse-lidar-9868923cd16b4c4db3bd834d8e18fe2e
+* author:	JFN (https://sketchfab.com/db4)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Art Magazines on Old Cabinet (Scaniverse LIDAR)" (https://sketchfab.com/3d-models/art-magazines-on-old-cabinet-scaniverse-lidar-9868923cd16b4c4db3bd834d8e18fe2e) by JFN (https://sketchfab.com/db4) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
